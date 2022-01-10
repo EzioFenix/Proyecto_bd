@@ -93,6 +93,28 @@ guías llevan qué itinerarios, teniendo en cuenta que un guía puede llevar var
 
 ## Normalización
 
+![norma_10](img/normalizacion/norma_10.png)
+
+![norma](img/normalizacion/norma.png)
+
+![norma_1](img/normalizacion/norma_1.png)
+
+![norma_2](img/normalizacion/norma_2.png)
+
+![norma_3](img/normalizacion/norma_3.png)
+
+![norma_4](img/normalizacion/norma_4.png)
+
+![norma_5](img/normalizacion/norma_5.png)
+
+![norma_6](img/normalizacion/norma_6.png)
+
+![norma_7](img/normalizacion/norma_7.png)
+
+![norma_8](img/normalizacion/norma_8.png)
+
+![norma_9](img/normalizacion/norma_9.png)
+
 ## Diccionario de datos
 
 # Diseño Físico o DDL o DML o pl/sql
